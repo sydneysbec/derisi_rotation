@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.log
+
+# Large data files
+Raw_data/
